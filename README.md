@@ -11,3 +11,7 @@ Heart failure and acute heart failure, the sudden onset or worsening of symptoms
 ## Dataset
 
 All the tests have been performed using the MIMIC-III (v1.4) dataset (Johnson et al., 2016). Access to this dataset can be gained through [PhysioNet](https://physionet.org/content/mimiciii/1.4/). This repository does not contain any data from the dataset.
+
+_____________________________________________________________________________________________
+[Johnson, A. E. W., Pollard, T. J. & Mark, R. G. (2016), ‘Mimic-iii clinical database (version 1.4)’,
+PhysioNet.](https://doi.org/10.13026/C2XW26 "Mimic-iii clinical database (version 1.4)")
